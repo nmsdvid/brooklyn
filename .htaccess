@@ -1,0 +1,21 @@
+# brooklyn .htaccess
+
+<IfModule mod_rewrite.c>
+
+RewriteEngine on
+
+RewriteBase /
+
+RewriteRule ^brooklyn/(.*)\.(txt)$ error [R=301,L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule   ^panel/?$   /brooklyn/_panel/index.php  [NC]
+RewriteRule   ^login/?$   /brooklyn/_panel/login.php  [NC]
+RewriteRule   ^logout/?$   /brooklyn/_panel/logout.php  [NC]
+RewriteRule   ^settings/?$   /brooklyn/_panel/settings.php  [NC]
+RewriteRule   ^article/?$   /brooklyn/_panel/article.php  [NC]
+
+
+</IfModule>

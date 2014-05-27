@@ -1,0 +1,12 @@
+[
+    {
+        "settings": {
+            "cookie_token": "1",
+            "username": "admin",
+            "password": "master",
+            "site_title": "My site title",
+            "meta_description": "My site description.",
+            "meta_keywords": "my, site, keywords"
+        }
+    }
+]
