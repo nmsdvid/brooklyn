@@ -1,5 +1,6 @@
-#Brooklyn CMS  
-version: 0.1 
+#brooklyn CMS  
+version: 0.1     
+homepage: http://brooklyncms.com/
 
 *Please note, brooklyn is in early beta, so use it with caution!*       
 
