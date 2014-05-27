@@ -15,5 +15,5 @@ Please check out the full documentation at http://brooklyncms.com/docs/
 The brooklyn project is released under the terms of the MIT license. So it's free to use on any kind of project.
 
 ##Support
-Whenever you are stuck or have a question please don’t hesitate to content me by email brookcms@gmail.com, by twitter @brooklynCMS or in person in Cologne, Germany.   
+Whenever you are stuck or have a question please don’t hesitate to content me by email brookcms@gmail.com or by twitter @brooklynCMS.
       
